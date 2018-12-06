@@ -26,7 +26,7 @@
 
 ### 归档短信未读角标
 
-魔趣为归档短信加入了未读角标，避免你错过需要及时阅读的短信。<Badge text="MK71.2+" />
+魔趣为归档短信加入了未读角标，避免你错过及时阅读的短信。<Badge text="MK71.2+" />
 
 ![归档短信未读角标](/screenshots/zh/messaging/unread_badge.png)
 
